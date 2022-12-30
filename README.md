@@ -6,7 +6,7 @@ That is a worthy aim, as evidenced by feedback to a Tweet asking how to do it: h
 
 The approach proposed is as follows:
 
-- Get high resolution imagery, e.g. 25 cm resolution imagery from the Environment Agency via Edina, shown below.
+- Get high resolution imagery, e.g. 25 cm resolution imagery from the Environment Agency via Edina, or open data from Switzerland in GEE, shown below.
 - Create a training dataset by classifying pixels for a sample dataset, e.g. into carriageway, sidewalk (pavement), other. This can be done manually or with reference to other datasets such as MM Topo.
 - Download OSM highway data for the area
 - For each segment sample at intervals along the segment to get width estimates per OSM way
@@ -17,15 +17,9 @@ The approach proposed is as follows:
 ## References
 
 Much of the groundwork has already been done.
-The most promising repo for image classification seems to be 
 
-- https://github.com/jdalrym2/road_surface_classifier
-
-There is also
-
-- https://github.com/jiankang1991/road_extraction_remote_sensing
-
-and 
-
-- https://twitter.com/andymaclachlan/status/1608574374008991745
+- The most promising repo for image classification seems to be https://github.com/jdalrym2/road_surface_classifier
+- There is also https://github.com/jiankang1991/road_extraction_remote_sensing
+- Tweet: https://twitter.com/andymaclachlan/status/1608574374008991745
+- Tutorial on image segmentation: https://www.tensorflow.org/tutorials/images/segmentation
 
