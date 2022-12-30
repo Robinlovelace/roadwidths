@@ -2,7 +2,7 @@
 
 The aim of this repo is to document the process of estimating road widths from aerial photography.
 
-That is a worthy aim, as evidenced by feedback to a Tweet asking how to do it: https://twitter.com/robinlovelace/status/1608595571635556352
+That is a worthy aim, as evidenced by feedback to a Tweet asking how to do it: https://twitter.com/robinlovelace/status/1608595571635556352 and this toot: https://fosstodon.org/@robinlovelace/109598027567544977
 
 The approach proposed is as follows:
 
