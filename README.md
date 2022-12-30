@@ -12,7 +12,7 @@ The approach proposed is as follows:
 - For each segment sample at intervals along the segment to get width estimates per OSM way
 - Compare the estimated widths with a ground truth dataset (e.g. OSM MM Highways) to generate confidence bands for predictions (e.g. 95% CIs)
 
-![](https://user-images.githubusercontent.com/1825120/210022922-9e1a7d37-ef73-45a0-b89a-8f68122fd95f.png)
+![](https://user-images.githubusercontent.com/1825120/210060557-16d93c23-c840-41f5-9d3b-2da4c4eb3d97.png)
 
 ## References
 
